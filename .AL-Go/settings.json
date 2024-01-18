@@ -3,7 +3,7 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-    "DeployToAventitTEST": {
+  "DeployToAventitTEST": {
     "continuousDeployment": false
   }
 }
