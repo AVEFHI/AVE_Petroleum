@@ -5,5 +5,6 @@
   "bcptTestFolders": [],
   "DeployToAventitTEST": {
     "continuousDeployment": false
-  }
+  },
+  "repoVersion": "1.0"
 }
